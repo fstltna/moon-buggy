@@ -1,0 +1,55 @@
+# car.img - images to animate the buggy
+# this is input for "img.sed"
+# $Id: car.img 4839 2003-04-13 16:50:02Z voss $
+
+NORMAL:
+|   Omm |
+|(|)-(|)|
+
+NORMAL1:
+|   Omm |
+|(\\)-(\\)|
+
+NORMAL2:
+|   Omm |
+|(-)-(-)|
+
+NORMAL3:
+|   Omm |
+|(/)-(/)|
+
+START:
+|   OMM |
+|(U)-(U)|
+
+UP1:
+|   OMm |
+|(|)-(|)|
+
+UP2:
+|   oMm |
+|(\\)-(\\)|
+
+LAND:
+|   omm |
+|(-)_(-)|
+
+BROKEN:
+|   __  |
+|cnOMMnb|
+
+RAM1:
+|   OMm |
+|#(|)(|)|
+
+RAM2:
+| n OMm |
+|##|)(|)|
+
+RAM3:
+|  ##Mm |
+| ###(|)|
+
+SIT:
+|   #MM |
+|(|###|)|
